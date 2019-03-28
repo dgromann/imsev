@@ -1,0 +1,252 @@
+Removed:
+Words: pus-puss
+Singular_WordNet_Synset('pus.n.02'): a fluid product of inflammation
+Singular_WordNet_Synset('plutonium.n.01'): a solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239
+Plural_WordNet_Synset('cunt.n.02'): obscene terms for female genitals
+Plural_WordNet_Synset('kitty.n.04'): informal terms referring to a domestic cat 
+Words: canvas-canvass
+Singular_WordNet_Synset('canvas.n.01'): a heavy, closely woven fabric (used for clothing or chairs or sails or tents)
+Singular_WordNet_Synset('canvas.n.02'): an oil painting on canvas fabric
+Singular_WordNet_Synset('canvas.n.03'): the setting for a narrative or fictional or dramatic account
+Singular_WordNet_Synset('canvas_tent.n.01'): a tent made of canvas fabric
+Singular_WordNet_Synset('sail.n.01'): a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel
+Singular_WordNet_Synset('canvas.n.06'): the mat that forms the floor of the ring in which boxers or professional wrestlers compete
+Plural_WordNet_Synset('poll.n.01'): an inquiry into public opinion conducted by interviewing a random sample of people
+Words: as-ass
+Singular_WordNet_Synset('arsenic.n.02'): a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar
+Singular_WordNet_Synset('angstrom.n.01'): a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation
+Singular_WordNet_Synset('vitamin_a.n.01'): any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes
+Singular_WordNet_Synset('deoxyadenosine_monophosphate.n.01'): one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)
+Singular_WordNet_Synset('adenine.n.01'): (biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA
+Singular_WordNet_Synset('ampere.n.02'): the basic unit of electric current adopted under the Systeme International d'Unites
+Singular_WordNet_Synset('a.n.06'): the 1st letter of the Roman alphabet
+Singular_WordNet_Synset('a.n.07'): the blood group whose red cells carry the A antigen
+Plural_WordNet_Synset('buttocks.n.01'): the fleshy part of the human body that you sit on
+Plural_WordNet_Synset('ass.n.02'): a pompous fool
+Plural_WordNet_Synset('ass.n.03'): hardy and sure-footed animal smaller and with longer ears than the horse
+Plural_WordNet_Synset('fuck.n.01'): slang for sexual intercourse
+Words: ko-kos
+Singular_WordNet_Synset('knockout.n.02'): a blow that renders the opponent unconscious
+Plural_WordNet_Synset('kos.n.01'): (in India) a unit of length having different values in different localities
+Words: pm-pms
+Singular_WordNet_Synset('autopsy.n.01'): an examination and dissection of a dead body to determine cause of death or the changes produced by disease
+Singular_WordNet_Synset('promethium.n.01'): a soft silvery metallic element of the rare earth group having no stable isotope; was discovered in radioactive form as a fission product of uranium
+Singular_WordNet_Synset('prime_minister.n.01'): the person who holds the position of head of the government in the United Kingdom
+Singular_WordNet_Synset('phase_modulation.n.01'): modulation of the phase of the carrier wave
+Plural_WordNet_Synset('premenstrual_syndrome.n.01'): a syndrome that occurs in many women from 2 to 14 days before the onset of menstruation
+Words: pb-pbs
+Singular_WordNet_Synset('lead.n.02'): a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey
+Singular_WordNet_Synset('petabit.n.01'): a unit of information equal to 1000 terabits or 10^15 bits
+Singular_WordNet_Synset('petabyte.n.01'): a unit of information equal to 1000 terabytes or 10^15 bytes
+Singular_WordNet_Synset('petabyte.n.02'): a unit of information equal to 1024 tebibytes or 2^50 bytes
+Plural_WordNet_Synset('phosphate_buffer_solution.n.01'): a solution containing a phosphate buffer
+Words: sen-sens
+Singular_WordNet_Synset('sen.n.01'): a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel
+Plural_WordNet_Synset('pot.n.09'): street names for marijuana
+Words: mus-muss
+Singular_WordNet_Synset('mus.n.01'): type genus of the Muridae: common house mice; the tips of the upper incisors have a square notch
+Singular_WordNet_Synset('mu.n.01'): the 12th letter of the Greek alphabet
+Plural_WordNet_Synset('mess.n.01'): a state of confusion and disorderliness
+Words: pe-pes
+Singular_WordNet_Synset('pe.n.01'): the 17th letter of the Hebrew alphabet
+Plural_WordNet_Synset('foot.n.01'): the part of the leg of a human being below the ankle joint
+Words: ed-eds
+Singular_WordNet_Synset('erectile_dysfunction.n.01'): impotence resulting from a man's inability to have or maintain an erection of his penis
+Plural_WordNet_Synset('explosive_detection_system.n.01'): a rapid automatic system to detect plastic explosives in passengers' luggage using X-ray technology and computers; designed for use in airports
+Words: baa-baas
+Singular_WordNet_Synset('baa.n.01'): the cry made by sheep
+Plural_WordNet_Synset('baas.n.01'): South African term for `boss'
+Words: al-als
+Singular_WordNet_Synset('aluminum.n.01'): a silvery ductile metallic element found primarily in bauxite
+Plural_WordNet_Synset('amyotrophic_lateral_sclerosis.n.01'): thickening of tissue in the motor tracts of the lateral columns and anterior horns of the spinal cord; results in progressive muscle atrophy that starts in the limbs
+Words: si-sis
+Singular_WordNet_Synset('silicon.n.01'): a tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors
+Singular_WordNet_Synset('ti.n.03'): the syllable naming the seventh (subtonic) note of any musical scale in solmization
+Plural_WordNet_Synset('sister.n.01'): a female person who has the same parents as another person
+Words: ra-ras
+Singular_WordNet_Synset('radium.n.01'): an intensely radioactive metallic element that occurs in minute amounts in uranium ores
+Singular_WordNet_Synset('right_ascension.n.01'): (astronomy) the equatorial coordinate specifying the angle, measured eastward along the celestial equator, from the vernal equinox to the intersection of the hour circle that passes through an object in the sky; usually expressed in hours and minutes and seconds; used with declination to specify positions on the celestial sphere
+Plural_WordNet_Synset('reticular_activating_system.n.01'): the network in the reticular formation that serves an alerting or arousal function
+Words: bus-buss
+Singular_WordNet_Synset('bus.n.01'): a vehicle carrying many passengers; used for public transport
+Singular_WordNet_Synset('bus_topology.n.01'): the topology of a network whose components are connected by a busbar
+Singular_WordNet_Synset('busbar.n.01'): an electrical conductor that makes a common connection between several circuits
+Singular_WordNet_Synset('bus.n.04'): a car that is old and unreliable
+Plural_WordNet_Synset('kiss.n.01'): the act of caressing with the lips (or an instance thereof)
+Words: da-das
+Singular_WordNet_Synset('district_attorney.n.01'): an official prosecutor for a judicial district
+Plural_WordNet_Synset('hyrax.n.01'): any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes
+Words: mu-mus
+Singular_WordNet_Synset('mu.n.01'): the 12th letter of the Greek alphabet
+Plural_WordNet_Synset('mus.n.01'): type genus of the Muridae: common house mice; the tips of the upper incisors have a square notch
+Words: re-res
+Singular_WordNet_Synset('rhenium.n.01'): a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum
+Singular_WordNet_Synset('re.n.03'): the syllable naming the second (supertonic) note of any major scale in solmization
+Plural_WordNet_Synset('reticuloendothelial_system.n.01'): a widely distributed system consisting of all the cells able to ingest bacteria or colloidal particles etc, except for certain white blood cells
+Words: pu-pus
+Singular_WordNet_Synset('plutonium.n.01'): a solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239
+Plural_WordNet_Synset('pus.n.02'): a fluid product of inflammation
+Words: fes-fess
+Singular_WordNet_Synset('iron.n.01'): a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood
+Plural_WordNet_Synset('fesse.n.01'): (heraldry) an ordinary consisting of a broad horizontal band across a shield
+Words: seb-sebs
+Singular_WordNet_Synset('staphylococcal_enterotoxin_b.n.01'): a form of staphylococcal enterotoxin that has been used as an incapacitating agent in biological warfare
+Plural_WordNet_Synset('southeast_by_south.n.01'): the compass point that is one point south of southeast
+Words: fa-fas
+Singular_WordNet_Synset('fa.n.01'): the syllable naming the fourth (subdominant) note of the diatonic scale in solmization
+Plural_WordNet_Synset('fetal_alcohol_syndrome.n.01'): a congenital medical condition in which body deformation occurs or facial development or mental ability is impaired because the mother drinks alcohol during pregnancy
+Words: do-dos
+Singular_WordNet_Synset('bash.n.02'): an uproarious party
+Singular_WordNet_Synset('do.n.02'): the syllable naming the first (tonic) note of any major scale in solmization
+Plural_WordNet_Synset('dos.n.02'): an operating system that is on a disk
+Words: cos-coss
+Singular_WordNet_Synset('cosine.n.01'): ratio of the adjacent side to the hypotenuse of a right-angled triangle
+Singular_WordNet_Synset('cos.n.02'): lettuce with long dark-green leaves in a loosely packed elongated head
+Singular_WordNet_Synset('carbon_monoxide.n.01'): an odorless very poisonous gas that is a product of incomplete combustion of carbon
+Singular_WordNet_Synset('cobalt.n.01'): a hard ferromagnetic silver-white bivalent or trivalent metallic element; a trace element in plant and animal nutrition
+Singular_WordNet_Synset('conscientious_objector.n.01'): one who refuses to serve in the armed forces on grounds of conscience
+Plural_WordNet_Synset('kos.n.01'): (in India) a unit of length having different values in different localities
+Words: bos-boss
+Singular_WordNet_Synset('bos.n.01'): wild and domestic cattle; in some classifications placed in the subfamily Bovinae or tribe Bovini
+Plural_WordNet_Synset('foreman.n.01'): a person who exercises control over workers
+Plural_WordNet_Synset('boss.n.02'): a person responsible for hiring workers
+Plural_WordNet_Synset('boss.n.03'): a person who exercises control and makes decisions
+Plural_WordNet_Synset('party_boss.n.01'): a leader in a political party who controls votes and dictates appointments
+Plural_WordNet_Synset('knob.n.01'): a circular rounded projection or protuberance
+Words: lat-lats
+Singular_WordNet_Synset('latissimus_dorsi.n.01'): a broad flat muscle on either side of the back
+Plural_WordNet_Synset('lats.n.01'): the basic unit of money in Latvia
+Words: eb-ebs
+Singular_WordNet_Synset('exabit.n.01'): a unit of information equal to 1000 petabits or 10^18 bits
+Singular_WordNet_Synset('exabyte.n.01'): a unit of information equal to 1000 petabytes or 10^18 bytes
+Singular_WordNet_Synset('exabyte.n.02'): a unit of information equal to 1024 pebibytes or 2^60 bytes
+Plural_WordNet_Synset('east_by_south.n.01'): the compass point that is one point south of due east
+Words: co-cos
+Singular_WordNet_Synset('carbon_monoxide.n.01'): an odorless very poisonous gas that is a product of incomplete combustion of carbon
+Singular_WordNet_Synset('cobalt.n.01'): a hard ferromagnetic silver-white bivalent or trivalent metallic element; a trace element in plant and animal nutrition
+Singular_WordNet_Synset('conscientious_objector.n.01'): one who refuses to serve in the armed forces on grounds of conscience
+Plural_WordNet_Synset('cosine.n.01'): ratio of the adjacent side to the hypotenuse of a right-angled triangle
+Plural_WordNet_Synset('cos.n.02'): lettuce with long dark-green leaves in a loosely packed elongated head
+Words: aid-aids
+Singular_WordNet_Synset('aid.n.01'): a resource
+Singular_WordNet_Synset('aid.n.02'): the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose
+Singular_WordNet_Synset('aid.n.03'): money to support a worthy person or cause
+Singular_WordNet_Synset('care.n.01'): the work of providing treatment for or attending to someone or something
+Plural_WordNet_Synset('aids.n.01'): a serious (often fatal) disease of the immune system transmitted through blood products especially by sexual contact or contaminated needles
+Words: ab-abs
+Singular_WordNet_Synset('abdominal.n.01'): the muscles of the abdomen
+Singular_WordNet_Synset('ab.n.04'): the blood group whose red cells carry both the A and B antigens
+Plural_WordNet_Synset('acrylonitrile-butadiene-styrene.n.01'): any of a class of composite plastics used to make car bodies and cases for computers and other appliances
+Words: pas-pass
+Singular_WordNet_Synset('pas.n.01'): (ballet) a step in dancing (especially in classical ballet)
+Singular_WordNet_Synset('dad.n.01'): an informal term for a father; probably derived from baby talk
+Singular_WordNet_Synset('protactinium.n.01'): a short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead
+Singular_WordNet_Synset('pascal.n.01'): a unit of pressure equal to one newton per square meter
+Singular_WordNet_Synset('public_address_system.n.01'): an electronic amplification system used as a communication system in public areas
+Plural_WordNet_Synset('base_on_balls.n.01'): (baseball) an advance to first base by a batter who receives four balls
+Plural_WordNet_Synset('pass.n.02'): (military) a written leave of absence
+Plural_WordNet_Synset('pass.n.03'): (American football) a play that involves one player throwing the ball to a teammate
+Plural_WordNet_Synset('pass.n.04'): the location in a range of mountains of a geological formation that is lower than the surrounding peaks
+Plural_WordNet_Synset('pass.n.05'): any authorization to pass or go somewhere
+Plural_WordNet_Synset('pass.n.06'): a document indicating permission to do something without restrictions
+Plural_WordNet_Synset('pass.n.07'): a flight or run by an aircraft over a target
+Plural_WordNet_Synset('pass.n.08'): a bad or difficult situation or state of affairs
+Plural_WordNet_Synset('pass.n.09'): a difficult juncture
+Plural_WordNet_Synset('pass.n.10'): one complete cycle of operations (as by a computer)
+Plural_WordNet_Synset('bye.n.01'): you advance to the next round in a tournament without playing an opponent
+Plural_WordNet_Synset('pass.n.12'): a permit to enter or leave a military installation
+Plural_WordNet_Synset('pass.n.13'): a complimentary ticket
+Plural_WordNet_Synset('crack.n.09'): a usually brief attempt
+Plural_WordNet_Synset('pass.n.15'): (sports) the act of throwing the ball to another member of your team
+Plural_WordNet_Synset('passing.n.07'): success in satisfying a test or requirement
+Words: pa-pas
+Singular_WordNet_Synset('dad.n.01'): an informal term for a father; probably derived from baby talk
+Singular_WordNet_Synset('protactinium.n.01'): a short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead
+Singular_WordNet_Synset('pascal.n.01'): a unit of pressure equal to one newton per square meter
+Singular_WordNet_Synset('public_address_system.n.01'): an electronic amplification system used as a communication system in public areas
+Plural_WordNet_Synset('pas.n.01'): (ballet) a step in dancing (especially in classical ballet)
+Words: mp-mps
+Singular_WordNet_Synset('military_policeman.n.01'): a member of the military police who polices soldiers and guards prisoners
+Singular_WordNet_Synset('military_police.n.01'): a military corps that enforces discipline and guards prisoners
+Plural_WordNet_Synset('mononuclear_phagocyte_system.n.01'): a widely distributed system of free and fixed macrophages derived from bone marrow
+Words: grip-gripes
+Singular_WordNet_Synset('clasp.n.02'): the act of grasping
+Singular_WordNet_Synset('handle.n.01'): the appendage to an object that is designed to be held in order to use or move it
+Singular_WordNet_Synset('bag.n.06'): a portable rectangular container for carrying clothes
+Singular_WordNet_Synset('grip.n.04'): the friction between a body and the surface on which it moves (as between an automobile tire and the road)
+Singular_WordNet_Synset('grip.n.05'): worker who moves the camera around while a film or television show is being made
+Singular_WordNet_Synset('grip.n.06'): an intellectual hold or understanding
+Singular_WordNet_Synset('bobby_pin.n.01'): a flat wire hairpin whose prongs press tightly together; used to hold bobbed hair in place
+Plural_WordNet_Synset('colic.n.01'): acute abdominal pain (especially in infants)
+Plural_WordNet_Synset('gripe.n.01'): informal terms for objecting
+Words: man-manes
+Singular_WordNet_Synset('man.n.01'): an adult person who is male (as opposed to a woman)
+Singular_WordNet_Synset('serviceman.n.01'): someone who serves in the armed forces; a member of a military force
+Singular_WordNet_Synset('man.n.03'): the generic use of the word to refer to any human being
+Singular_WordNet_Synset('homo.n.02'): any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage
+Singular_WordNet_Synset('man.n.05'): a male subordinate
+Singular_WordNet_Synset('man.n.06'): an adult male person who has a manly character (virile and courageous competent)
+Singular_WordNet_Synset('valet.n.01'): a manservant who acts as a personal attendant to his employer
+Singular_WordNet_Synset('man.n.08'): a male person who plays a significant role (husband or lover or boyfriend) in the life of a particular woman
+Singular_WordNet_Synset('man.n.10'): game equipment consisting of an object used in playing certain board games
+Singular_WordNet_Synset('world.n.08'): all of the living human inhabitants of the earth
+Plural_WordNet_Synset('mane.n.01'): long coarse hair growing from the crest of the animal's neck
+Plural_WordNet_Synset('mane.n.02'): growth of hair covering the scalp of a human being
+Words: rat-rates
+Singular_WordNet_Synset('rat.n.01'): any of various long-tailed rodents similar to but larger than a mouse
+Singular_WordNet_Synset('scab.n.01'): someone who works (or provides workers) during a strike
+Singular_WordNet_Synset('rotter.n.01'): a person who is deemed to be despicable or contemptible
+Singular_WordNet_Synset('informer.n.01'): one who reveals confidential information in return for money
+Singular_WordNet_Synset('rat.n.05'): a pad (usually made of hair) worn as part of a woman's coiffure
+Plural_WordNet_Synset('rates.n.01'): a local tax on property (usually used in the plural)
+Plural_WordNet_Synset('rate.n.01'): a magnitude or frequency relative to a time unit
+Plural_WordNet_Synset('rate.n.02'): amount of a charge or payment relative to some basis
+Plural_WordNet_Synset('pace.n.03'): the relative speed of progress or change
+Plural_WordNet_Synset('rate.n.04'): a quantity or amount or measure considered as a proportion of another quantity or amount or measure
+Words: strip-stripes
+Singular_WordNet_Synset('strip.n.01'): a relatively long narrow piece of something
+Singular_WordNet_Synset('strip.n.02'): artifact consisting of a narrow flat piece of material
+Singular_WordNet_Synset('airstrip.n.01'): an airfield without normal airport facilities
+Singular_WordNet_Synset('comic_strip.n.01'): a sequence of drawings telling a story in a newspaper or comic book
+Singular_WordNet_Synset('strip.n.05'): thin piece of wood or metal
+Singular_WordNet_Synset('strip.n.06'): a form of erotic entertainment in which a dancer gradually undresses to music
+Plural_WordNet_Synset('chevron.n.01'): V-shaped sleeve badge indicating military rank and service
+Plural_WordNet_Synset('band.n.04'): an adornment consisting of a strip of a contrasting color or material
+Plural_WordNet_Synset('stripe.n.02'): a piece of braid, usually on the sleeve, indicating military rank or length of service
+Plural_WordNet_Synset('stripe.n.04'): a kind or category
+Plural_WordNet_Synset('stripe.n.05'): a narrow marking of a different color or texture from the background
+Words: rib-ribes
+Singular_WordNet_Synset('rib.n.01'): support resembling the rib of an animal
+Singular_WordNet_Synset('rib.n.02'): any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates)
+Singular_WordNet_Synset('rib.n.03'): cut of meat including one or more ribs
+Singular_WordNet_Synset('rib.n.04'): a teasing remark
+Singular_WordNet_Synset('rib.n.05'): a riblike supporting or strengthening part of an animal or plant
+Singular_WordNet_Synset('rib.n.06'): a projecting molding on the underside of a vault or ceiling; may be ornamental or structural
+Plural_WordNet_Synset('ribes.n.01'): a flowering shrub bearing currants or gooseberries; native to northern hemisphere
+Words: mat-mates
+Singular_WordNet_Synset('mat.n.01'): a thick flat pad used as a floor covering
+Singular_WordNet_Synset('mat.n.02'): mounting consisting of a border or background for a picture
+Singular_WordNet_Synset('mat.n.03'): sports equipment consisting of a piece of thick padding on the floor for gymnastic sports
+Singular_WordNet_Synset('mat.n.04'): a mass that is densely tangled or interwoven
+Singular_WordNet_Synset('flatness.n.04'): the property of having little or no contrast; lacking highlights or gloss
+Singular_WordNet_Synset('mat.n.07'): a small pad of material that is used to protect surface from an object placed on it
+Plural_WordNet_Synset('couple.n.02'): a pair of people who live together
+Plural_WordNet_Synset('mate.n.01'): the officer below the master on a commercial ship
+Plural_WordNet_Synset('teammate.n.01'): a fellow member of a team
+Plural_WordNet_Synset('mate.n.03'): the partner of an animal (especially a sexual partner)
+Plural_WordNet_Synset('spouse.n.01'): a person's partner in marriage
+Plural_WordNet_Synset('match.n.04'): an exact duplicate
+Plural_WordNet_Synset('mate.n.06'): one of a pair
+Plural_WordNet_Synset('mate.n.07'): South American holly; leaves used in making a drink like tea
+Plural_WordNet_Synset('mate.n.08'): informal term for a friend of the same sex
+Plural_WordNet_Synset('mate.n.09'): South American tea-like drink made from leaves of a South American holly called mate
+Plural_WordNet_Synset('checkmate.n.02'): a chess move constituting an inescapable and indefensible attack on the opponent's king
+Words: mop-mopes
+Singular_WordNet_Synset('swab.n.02'): cleaning implement consisting of absorbent material fastened to a handle; for cleaning floors
+Plural_WordNet_Synset('dumps.n.01'): an informal expression for a mildly depressed state
+Plural_WordNet_Synset('dallier.n.01'): someone who wastes time
+Words: wag-wages
+Singular_WordNet_Synset('wag.n.01'): a witty amusing person who makes jokes
+Singular_WordNet_Synset('wag.n.02'): causing to move repeatedly from side to side
+Plural_WordNet_Synset('wages.n.01'): a recompense for worthy acts or retribution for wrongdoing
+Plural_WordNet_Synset('wage.n.01'): something that remunerates
